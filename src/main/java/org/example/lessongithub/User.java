@@ -1,5 +1,6 @@
 package org.example.lessongithub;
 
+//user class
 public class User {
    private String name;
   private   int balance;
